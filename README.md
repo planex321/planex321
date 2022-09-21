@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @planex321
-- 👀 I’m interested in ... python and ethical hacking 
-- 🌱 I’m currently learning ... python 
-
+- 👀 I’m interested in ... python ,web development and cyber security   
